@@ -8,6 +8,7 @@ import pytest
 def setup_function():
     print("setup_function：每个用例开始前都会执行")
 
+
 def teardown_function():
     print("teardown_function：每个用例结束后都会执行")
 
