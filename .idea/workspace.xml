@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e75f5dd6-4ee1-4ae9-9eb6-cb5e91707aec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test_appium01/test_daka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_appium01/test_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_appium02/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_web01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_web02/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hogwarts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hogwarts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_exer01/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_appium01/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,24 +19,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hogwarts$pytest_for_test_daka_TestDaka_test_daka.coverage" NAME="pytest for test_daka.TestDaka.test_daka Coverage Results" MODIFIED="1609490466826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_appium01" />
+    <SUITE FILE_PATH="coverage/hogwarts$pytest_in_test_daka_py.coverage" NAME="pytest in test_daka.py Coverage Results" MODIFIED="1609510110794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_appium01" />
+    <SUITE FILE_PATH="coverage/hogwarts$pytest_for_test_daka_TestDaka_test_daka_commit.coverage" NAME="pytest for test_daka.TestDaka.test_daka_commit Coverage Results" MODIFIED="1609518091697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_appium01" />
     <SUITE FILE_PATH="coverage/hogwarts$pytest_in_hogwarts.coverage" NAME="pytest in hogwarts Coverage Results" MODIFIED="1607579984926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hogwarts$test_cal.coverage" NAME="test_cal Coverage Results" MODIFIED="1607579881667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hogwarts$pytest_for_test_daka_TestDaka.coverage" NAME="pytest for test_daka.TestDaka Coverage Results" MODIFIED="1609507001571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_appium01" />
+    <SUITE FILE_PATH="coverage/hogwarts$pytest_for_test_daka_TestDaka_test_daka02.coverage" NAME="pytest for test_daka.TestDaka.test_daka02 Coverage Results" MODIFIED="1609511004638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_appium01" />
     <SUITE FILE_PATH="coverage/hogwarts$pytest_for_test_xi01_test_two.coverage" NAME="pytest for test_xi01.test_two Coverage Results" MODIFIED="1607580032671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hogwarts$pytest_in_test_xi01_py.coverage" NAME="pytest in test_xi01.py Coverage Results" MODIFIED="1607585442351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hogwarts$pytest_for_test_cal_TestCalc.coverage" NAME="pytest for test_cal.TestCalc Coverage Results" MODIFIED="1607649938993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/hogwarts$pytest_in_test_demo_py.coverage" NAME="pytest in test_demo.py Coverage Results" MODIFIED="1607579887499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hogwarts$pytest_for_test_xi01_test_one.coverage" NAME="pytest for test_xi01.test_one Coverage Results" MODIFIED="1607580141538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hogwarts$pytest_in_test_demo_py.coverage" NAME="pytest in test_demo.py Coverage Results" MODIFIED="1609432340484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_appium01" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="434" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_xi03.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_appium01/test_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_appium01/test_daka.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+              <folding>
+                <element signature="e#87#115#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,13 +77,15 @@
         <option value="$PROJECT_DIR$/test_xi02.py" />
         <option value="$PROJECT_DIR$/test_xi03.py" />
         <option value="$PROJECT_DIR$/test_xi01.py" />
+        <option value="$PROJECT_DIR$/test_appium01/test_demo.py" />
+        <option value="$PROJECT_DIR$/test_appium01/test_daka.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="732" />
-    <option name="y" value="15" />
-    <option name="width" value="1188" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="402" />
+    <option name="y" value="11" />
+    <option name="width" value="1275" />
     <option name="height" value="1017" />
   </component>
   <component name="ProjectView">
@@ -73,6 +100,29 @@
               <item name="hogwarts" type="b2602c69:ProjectViewProjectNode" />
               <item name="hogwarts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hogwarts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hogwarts" type="462c0819:PsiDirectoryNode" />
+              <item name="test_appium01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hogwarts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hogwarts" type="462c0819:PsiDirectoryNode" />
+              <item name="test_appium01" type="462c0819:PsiDirectoryNode" />
+              <item name="test_daka.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="hogwarts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hogwarts" type="462c0819:PsiDirectoryNode" />
+              <item name="test_appium01" type="462c0819:PsiDirectoryNode" />
+              <item name="test_daka.py" type="8704e2dd:PyFileNode" />
+              <item name="TestDaka" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="hogwarts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hogwarts" type="462c0819:PsiDirectoryNode" />
+              <item name="test_appium02" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -85,7 +135,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,94 +149,94 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_cal.TestCalc">
-    <configuration name="pytest for test_cal.TestCalc" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_daka.TestDaka.test_daka_commit">
+    <configuration name="pytest for test_daka.TestDaka" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_appium01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_cal.TestCalc&quot;" />
+      <option name="_new_target" value="&quot;test_daka.TestDaka&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_xi01.test_one" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_daka.TestDaka.test_daka" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_appium01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xi01.test_one&quot;" />
+      <option name="_new_target" value="&quot;test_daka.TestDaka.test_daka&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_xi01.test_two" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_daka.TestDaka.test_daka02" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_appium01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xi01.test_two&quot;" />
+      <option name="_new_target" value="&quot;test_daka.TestDaka.test_daka02&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in hogwarts" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_daka.TestDaka.test_daka_commit" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_appium01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_daka.TestDaka.test_daka_commit&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_xi01.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_daka.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_appium01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_xi01.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_appium01/test_daka.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_cal.TestCalc" />
-        <item itemvalue="Python tests.pytest in test_xi01.py" />
-        <item itemvalue="Python tests.pytest for test_xi01.test_one" />
-        <item itemvalue="Python tests.pytest for test_xi01.test_two" />
-        <item itemvalue="Python tests.pytest in hogwarts" />
+        <item itemvalue="Python tests.pytest for test_daka.TestDaka.test_daka_commit" />
+        <item itemvalue="Python tests.pytest for test_daka.TestDaka.test_daka02" />
+        <item itemvalue="Python tests.pytest in test_daka.py" />
+        <item itemvalue="Python tests.pytest for test_daka.TestDaka" />
+        <item itemvalue="Python tests.pytest for test_daka.TestDaka.test_daka" />
       </list>
     </recent_temporary>
   </component>
@@ -205,44 +255,44 @@
       <workItem from="1607585433754" duration="343000" />
       <workItem from="1607649019566" duration="3859000" />
       <workItem from="1608187173278" duration="787000" />
-      <workItem from="1609426085138" duration="289000" />
+      <workItem from="1609426085138" duration="15243000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_demo_py - 2020.12.10 at 13h 58m 09s.xml">
-      <configuration name="pytest in test_demo.py" configurationId="tests" />
+    <history-entry file="pytest_for_test_daka_TestDaka - 2021.01.01 at 16h 43m 13s.xml">
+      <configuration name="pytest for test_daka.TestDaka" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_hogwarts - 2020.12.10 at 13h 59m 47s.xml">
-      <configuration name="pytest in hogwarts" configurationId="tests" />
+    <history-entry file="pytest_for_test_daka_TestDaka - 2021.01.01 at 16h 44m 43s.xml">
+      <configuration name="pytest for test_daka.TestDaka" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_xi01_test_one - 2020.12.10 at 14h 00m 25s.xml">
-      <configuration name="pytest for test_xi01.test_one" configurationId="tests" />
+    <history-entry file="pytest_for_test_daka_TestDaka - 2021.01.01 at 16h 45m 45s.xml">
+      <configuration name="pytest for test_daka.TestDaka" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_xi01_test_two - 2020.12.10 at 14h 00m 34s.xml">
-      <configuration name="pytest for test_xi01.test_two" configurationId="tests" />
+    <history-entry file="pytest_for_test_daka_TestDaka - 2021.01.01 at 21h 16m 18s.xml">
+      <configuration name="pytest for test_daka.TestDaka" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_xi01_py - 2020.12.10 at 14h 00m 41s.xml">
-      <configuration name="pytest in test_xi01.py" configurationId="tests" />
+    <history-entry file="pytest_for_test_daka_TestDaka - 2021.01.01 at 21h 17m 23s.xml">
+      <configuration name="pytest for test_daka.TestDaka" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_xi01_test_one - 2020.12.10 at 14h 02m 23s.xml">
-      <configuration name="pytest for test_xi01.test_one" configurationId="tests" />
+    <history-entry file="pytest_in_test_daka_py - 2021.01.01 at 22h 03m 42s.xml">
+      <configuration name="pytest in test_daka.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_xi01_py - 2020.12.10 at 15h 30m 46s.xml">
-      <configuration name="pytest in test_xi01.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_daka_py - 2021.01.01 at 22h 09m 27s.xml">
+      <configuration name="pytest in test_daka.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_cal_TestCalc - 2020.12.11 at 09h 24m 43s.xml">
-      <configuration name="pytest for test_cal.TestCalc" configurationId="tests" />
+    <history-entry file="pytest_for_test_daka_TestDaka_test_daka02 - 2021.01.01 at 22h 25m 44s.xml">
+      <configuration name="pytest for test_daka.TestDaka.test_daka02" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_cal_TestCalc - 2020.12.11 at 09h 25m 22s.xml">
-      <configuration name="pytest for test_cal.TestCalc" configurationId="tests" />
+    <history-entry file="pytest_for_test_daka_TestDaka_test_daka_commit - 2021.01.02 at 00h 13m 35s.xml">
+      <configuration name="pytest for test_daka.TestDaka.test_daka_commit" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_cal_TestCalc - 2020.12.11 at 09h 25m 43s.xml">
-      <configuration name="pytest for test_cal.TestCalc" configurationId="tests" />
+    <history-entry file="pytest_for_test_daka_TestDaka_test_daka_commit - 2021.01.02 at 00h 19m 35s.xml">
+      <configuration name="pytest for test_daka.TestDaka.test_daka_commit" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8908000" />
+    <option name="totallyTimeSpent" value="23862000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -254,15 +304,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="732" y="15" width="1188" height="1017" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1888298" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.3329718" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.398641" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -270,7 +321,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.3991323" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" visible="true" weight="0.25141564" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.25141564" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.329718" />
       <window_info anchor="right" id="RobotPy" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -289,10 +340,79 @@
     <entry file="file://$PROJECT_DIR$/test_xi02.py" />
     <entry file="file://$PROJECT_DIR$/test_cal.py" />
     <entry file="file://$PROJECT_DIR$/test_xi01.py" />
+    <entry file="file://D:/Python37/Lib/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/_pytest/pathlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="519" selection-start-line="519" selection-end-line="519" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="486" selection-start-line="486" selection-end-line="486" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/_pytest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/_pytest/assertion/rewrite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_xi03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_appium01/test_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="147" column="8" selection-start-line="147" selection-start-column="8" selection-end-line="147" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/appium/webdriver/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python37/Lib/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1661">
+          <caret line="1161" column="6" selection-start-line="1161" selection-start-column="6" selection-end-line="1161" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_appium01/test_daka.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="e#87#115#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
