@@ -7,7 +7,8 @@
 import random
 
 from appium.webdriver.common.mobileby import MobileBy
-from basepage import BasePage
+
+from test_appium0306.page.base_page import BasePage
 
 
 class ContactAdd(BasePage):
@@ -20,8 +21,10 @@ class ContactAdd(BasePage):
         添加信息
         :return:
         """
-        ran = random.randint(0, 99)
-        name = "tangsong" + ran
+        print("attr-Add-begin")
+        ran = random.randint(100, 999)
+        name = "tangsong" + str(ran)
+        photo = "13347700"+ str(ran)
         self.find_and_send(MobileBy.XPATH,
                            "//*[contains(@text, '姓名')]/..//*[@text='必填']", name)
         self.find_and_click(MobileBy.XPATH,
@@ -30,7 +33,7 @@ class ContactAdd(BasePage):
         self.find_and_click(MobileBy.XPATH, "//*[@text='女']")
         self.find_and_send(MobileBy.XPATH,
                            "//*[contains(@text, '手机')]/..//*[@text='手机号']",
-                           "13347700000")
+                           photo)
         self.find_and_click(MobileBy.XPATH, "//*[@text='保存']")
         print("完成")
         return True

@@ -4,11 +4,11 @@
 @file: app.py
 @time: 2021/01/03
 """
-
 from appium import webdriver
-from appium.webdriver.webdriver import WebDriver
+
 from test_appium0306.page.base_page import BasePage
 from test_appium0306.page.main_page import MainPage
+
 
 class App(BasePage):
 
@@ -31,8 +31,9 @@ class App(BasePage):
             self.driver.launch_app()
         # 操作，在 10 内，每 0.5 s 查找一次元素
         self.driver.implicitly_wait(10)
-
+        print("app-commit")
     def goto_main(self):
+        print("main-begin")
         return MainPage(self.driver)
 
 

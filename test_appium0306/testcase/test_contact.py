@@ -7,12 +7,10 @@
 from test_appium0306.page.app import App
 
 
-class TestContact:
-
-    def test_contact(self):
-        self.app = App()
-        self.main = self.app.start().goto_main()
-        result = self.main.goto_address().click_addmember().add_member_menual().add_contact()
+def test_contact_addmember():
+    app = App()
+    app.start()
+    result =  app.goto_main().goto_address().click_addmember().add_member_manual().add_contact()
 
 
 
